@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/student-profile-manager/',
+  base: '/VUE/',
   server: {
     port: 5173,
     open: true
